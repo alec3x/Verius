@@ -1,2 +1,2 @@
-# TheVardanianCompany
+# Verius
 Website
